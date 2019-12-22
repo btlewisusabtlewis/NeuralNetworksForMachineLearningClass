@@ -1,4 +1,4 @@
-# NeuralNetworksForMachineLearningClass
+# Neural Networks For Machine Learning
 Matlab source files for Geoff Hinton's Coursera class "Neural Networks for Machine Learning". Geoff Hinton removed the class from
 Coursera in 2019 since he felt it was now out of date. However, the lectures are still a good introduction to neural networks and 
 are available at Geoff Hinton's website [here](https://www.cs.toronto.edu/~hinton/coursera_lectures.html). An outline of the course 
